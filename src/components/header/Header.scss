@@ -1,0 +1,24 @@
+.header-wrapper {
+    background-color: aquamarine;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-weight: 400;
+}
+
+ul.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+li.list-item {
+    padding-right: 4em;
+}
+    
+.list-item a {
+    text-decoration: none;
+}
