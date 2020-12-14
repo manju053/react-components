@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "text": "Rating",
+        "path": "rating"
+    },
+
+    {
+        "id": 2,
+        "text": "Carousel",
+        "path": "carousel"
+    }
+]

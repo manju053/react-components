@@ -1,0 +1,13 @@
+.home-wrapper {
+    display: flex;
+}
+
+.sidenav-wrapper {
+    width: 20%;
+    background-color: beige;
+    height: 90vh;
+    overflow-y: auto;
+    a {
+        text-decoration: none;
+    }
+}
